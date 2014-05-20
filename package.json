@@ -1,0 +1,14 @@
+{
+  "name": "git-webhook-client",
+  "version": "0.0.0",
+  "description": "Listens for webhooks and automatically pulls listed repos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Magnus Bae",
+  "license": "BSD",
+  "dependencies": {
+    "gith": "~1.0.4"
+  }
+}
